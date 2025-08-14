@@ -7,3 +7,4 @@ for num in range(2, 51):
 
 print(*range(1, 51, 2))
 
+print("hello python")
